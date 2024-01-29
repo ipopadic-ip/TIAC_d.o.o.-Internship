@@ -1,0 +1,10 @@
+﻿namespace P1TaskFlow.Models
+{
+    public class TodoTaskGropup
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public StatusesEnum Status { get; set; }
+    }
+}

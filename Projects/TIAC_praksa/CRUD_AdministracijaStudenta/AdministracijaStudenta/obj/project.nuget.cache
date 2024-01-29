@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u6b9djbOZ+SeZzbUN5qwNhWT57kLjELEA7bBmE6zo13zDvwh1gG8MlDMvYxGUIFxchJLK087ta+H5ILdJl7S5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ilija\\Projects\\TIAC praksa\\AdministracijaStudenta\\AdministracijaStudenta\\AdministracijaStudenta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ilija\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ilija\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ilija\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ilija\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
